@@ -1,0 +1,27 @@
+{
+  "name": "random-mess-str",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nemroder/random-mess-str.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nemroder/random-mess-str.git"
+  },
+  "homepage": "https://github.com/Nemroder/random-mess-str.git",
+  "bin": {
+    "random-mess-str": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
